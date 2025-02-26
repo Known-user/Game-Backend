@@ -33,3 +33,5 @@ build/
 .vscode/
 
 
+# Ignore environment variables
+.env
