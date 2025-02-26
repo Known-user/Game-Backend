@@ -10,7 +10,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/tournaments")
-@CrossOrigin(origins = "*") 
+@CrossOrigin(origins = "https://tournament-45zp.onrender.com") 
 public class TournamentController {
 
     private final TournamentService tournamentService;
