@@ -2,10 +2,6 @@
 services:
   app:
     build: .
-    env_file:
-      - .env
-    volumes:
-      - ./.env:/app/.env
     ports:
       - "8080:8080"
     restart: always
