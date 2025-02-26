@@ -83,7 +83,7 @@ The backend can be deployed on platforms like Heroku or DigitalOcean. Ensure tha
 
 ## Bonus
 
-- The application is deployed and accessible at [Live URL](https://tournament-45zp.onrender.com/).
+- The application is deployed and accessible at [Live URL](https://game-backend-0o62.onrender.com/).
 
 ## Assumptions and Trade-offs
 
